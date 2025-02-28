@@ -19,7 +19,7 @@ export default defineConfig({
     outDir: 'dist',
     assetsDir: 'assets',
   },
-  base: '/My-3D-portfolio/', // Ensure this matches the path where your site is deployed
+  base: '/portfolio_2025/', // Update this to match your GitHub Pages repo name
 });
 
 
