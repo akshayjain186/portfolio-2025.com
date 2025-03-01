@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "homepage": "https://akshayjain186.github.io/My-3D-portfolio-main",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
