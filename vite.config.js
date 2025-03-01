@@ -19,7 +19,7 @@ export default defineConfig({
     outDir: 'dist',
     assetsDir: 'assets',
   },
-  base: '/portfolio_2025/', // Update this to match your GitHub Pages repo name
+  base: '/portfolio-2025/', // Update this to match your GitHub Pages repo name
 });
 
 
