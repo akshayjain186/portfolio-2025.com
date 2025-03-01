@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://akshayjain186.github.io/portfolio-2025.com/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
